@@ -1,6 +1,10 @@
 # ping_pong
 Ping_pong game in python
 
+![alt text](view.png)
+
+
+
 The game is a bit basic, I tried to make the ball move as well as possible without following a *-1 pattern, I did it using adding small random numbers to the movement of the ball,
 
 
